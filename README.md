@@ -17,4 +17,4 @@ Then run it, via **sh backup.sh**
 
 Now follow the instructions!
 
-![ImageGIF](https://images.world-heberg.com/euYcslbI5c.gif)
+![](https://images.world-heberg.com/euYcslbI5c.gif)
