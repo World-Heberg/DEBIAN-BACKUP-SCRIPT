@@ -10,3 +10,11 @@ Then put it in a folder on your server.
 > /!\ No need to insert the file in the folder you want to save!
 
 ![Image](https://images.world-heberg.com/WinSCP_cm4xJeLlnU.png)
+
+Now use your terminal to establish an SSH connection with root rights to your server. Access via the **cd** or folder command where you inserted the **backup.sh** file
+
+Then run it, via **sh backup.sh**
+
+Now follow the instructions!
+
+![Image](https://images.world-heberg.com/euYcslbI5c.gif)
