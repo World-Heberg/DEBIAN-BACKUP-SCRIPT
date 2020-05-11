@@ -18,3 +18,7 @@ Then run it, via **sh backup.sh**
 Now follow the instructions!
 
 ![](https://images.world-heberg.com/euYcslbI5c.gif)
+
+## Support
+
+If you need help for any reason, join (https://discord.gg/gFSGkwu)[the official Discord of World-Heberg.com]
