@@ -21,4 +21,4 @@ Now follow the instructions!
 
 ## Support
 
-If you need help for any reason, join (https://discord.gg/gFSGkwu)[the official Discord of World-Heberg.com]
+If you need help for any reason, join [https://discord.gg/gFSGkwu](the official Discord of World-Heberg.com)
