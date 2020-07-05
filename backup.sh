@@ -54,7 +54,7 @@ if [ $choix = 1 ]
 			else
 				echo "\033[31mLe fichier existe déjà.\033[0m"
 				rm /$nom_archive
-		                echo "\033[31mLe fichier exitant a été supprimé\033[0m"
+		                echo "\033[31mLe fichier existant a été supprimé\033[0m"
 				echo "\033[31mFermeture du script.\033[0m"
 				exit
 		fi
@@ -105,7 +105,7 @@ EOF
 				else
 					echo "\033[31mLe fichier existe déjà.\033[0m"
 					rm /$nom_archive
-		       	    echo "\033[31mLe fichier exitant a été supprimé\033[0m"
+		       	    echo "\033[31mLe fichier existant a été supprimé\033[0m"
 					echo "\033[31mFermeture du script.\033[0m"
 					exit
 		fi
